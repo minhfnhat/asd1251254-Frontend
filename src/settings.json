@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Elevate your projects with unparalleled tools designed for limitless innovation and seamless collaboration.",
+        "title": "Unleash Your Creative Potential"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Elevate your projects with unparalleled tools designed for limitless innovation and seamless collaboration.",
+        "title": "Unleash Your Creative Potential"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Elevate your projects with unparalleled tools designed for limitless innovation and seamless collaboration.",
+        "title": "Unleash Your Creative Potential"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Elevate your projects with unparalleled tools designed for limitless innovation and seamless collaboration.",
+        "title": "Unleash Your Creative Potential"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Elevate your projects with unparalleled tools designed for limitless innovation and seamless collaboration.",
+        "title": "Unleash Your Creative Potential"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Elevate your projects with unparalleled tools designed for limitless innovation and seamless collaboration.",
+        "title": "Unleash Your Creative Potential"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Elevate your projects with unparalleled tools designed for limitless innovation and seamless collaboration.",
+        "title": "Unleash Your Creative Potential"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Elevate your projects with unparalleled tools designed for limitless innovation and seamless collaboration.",
+        "title": "Unleash Your Creative Potential"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Unleash Your Creative Potential",
+  "subtitle": "Elevate your projects with unparalleled tools designed for limitless innovation and seamless collaboration."
+}
